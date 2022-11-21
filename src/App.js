@@ -3,8 +3,6 @@ import MainPageComponent from "./main";
 import { Switch, Route, Link } from "react-router-dom";
 import UploadPage from "./upload";
 import ProductPage from "./product";
-import "antd/dist/antd.css";
-
 function App() {
   return (
     <div>
